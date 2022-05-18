@@ -3,21 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.1",
+    "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "http-proxy-middleware": "^2.0.1",
     "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-popper": "^2.2.5",
-    "react-redux": "^7.2.4",
+    "react-popper": "^2.3.0",
+    "react-redux": "^7.2.8",
     "react-redux-form": "^1.16.14",
     "react-router-dom": "^5.2.1",
     "react-scripts": "^4.0.3",
-    "reactstrap": "^8.9.0",
-    "redux": "^4.1.1",
-    "redux-thunk": "^2.3.0"
+    "reactstrap": "^8.10.1",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
